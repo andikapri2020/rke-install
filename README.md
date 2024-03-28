@@ -357,3 +357,8 @@ As we can see, setting up RKE2, Rancher and Longhorn is not that complicated. We
 thanks!
 
 ![success](img/success.jpg)
+
+
+## Uninstall RKE
+/usr/local/bin/rke2-uninstall.sh
+https://docs.rke2.io/install/uninstall
